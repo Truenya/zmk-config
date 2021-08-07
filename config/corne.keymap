@@ -62,7 +62,7 @@
 //                                   '--------+---------+---------'       '-------+---------+---------'
                         bindings = <
    &kp F3     &kp N1         &kp N2            &kp N3             &kp N4               &kp N5            &kp N6                   &kp N7             &kp N8                 &kp N9                   &kp N0     &kp DEL
-   &kp F5     &kp LPAR       &kp RPAR          &kp PRCNT          &kp DLLR             &kp HASH         &kp KP_MINUS             &kp KP_EQUAL       &kp LEFT_BRACKET       &kp RIGHT_BRACKET        &kp RPAR   &kp COLON
+   &kp F5     &kp LPAR       &kp RPAR          &kp PRCNT          &kp DLLR             &kp HASH          &kp KP_MINUS             &kp N7             &kp LEFT_BRACKET       &kp RIGHT_BRACKET        &kp RPAR   &kp COLON
    &kp LSHFT  &kp PIPE       &kp AMPS          &kp KP_MINUS       &kp LEFT_BRACE       &kp DLLR          &kp RIGHT_BRACKET        &kp RIGHT_BRACE    &kp KP_EQUAL           &kp UNDERSCORE           &trans     &trans
                                                &kp F2             &trans               &mo ADJUST        &kp KP_N1                &kp KP_N2          &kp KP_N3
                         >;
