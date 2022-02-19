@@ -2,7 +2,7 @@
  * Copyright (c) 2020 The ZMK Contributors
  *
  * SPDX-License-Identifier: MIT
- * To use home rows - &hm LSHFT F
+ * To use home rows - &hm LSHFT F 
  */
 
 #include <behaviors.dtsi>
