@@ -40,13 +40,13 @@
 // |--------------+---------+--------+--------+---------+---------|       |-------+---------+---------+---------+----------+----------|
 // |   SHFT       |    Z    |    X   |   C    |    V    |    B    |       |   N   |    M    |    ,    |    .    |     /    | ` | ALT  |
 // '---------------------------------+--------+---------+---------+       |-------+---------+---------+-------------------------------'
-//                                   |  LALT  |   MO1   |   SPC   |       |  ENT  |   BKSP  |         |
+//                                   |  LALT  |   MO1   |   SPC   |       |  ENT  |   BKSP  |   DEL   |
 //                                   '--------+---------+---------'       '-------+---------+---------'
                         bindings = <
    &kp ESC        &kp Q       &kp W      &kp E     &kp R           &kp T   &kp Y  &kp U           &kp I        &kp O     &kp P      &kp BACKSLASH
    &mt LCTRL TAB  &kp A       &kp S      &kp D     &kp F           &kp G   &kp H  &kp J           &kp K        &kp L     &kp SEMI   &kp SQT
    &kp LSHFT      &kp Z       &kp X      &kp C     &kp V           &kp B   &kp N  &kp M           &kp COMMA    &kp DOT   &kp FSLH   &mt RALT GRAVE
-                  &kp LALT    &mo NUMB   &lt NAVI SPACE            &kp  RET       &kp BSPC        &trans
+                  &kp LALT    &mo NUMB   &lt NAVI SPACE            &kp  RET       &lt NUMB BSPC   &kp DEL
                         >;
                 };
                 
